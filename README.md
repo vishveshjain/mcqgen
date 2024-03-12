@@ -1,5 +1,6 @@
-This project will generate MCQ using openai and langchain
-If you are cloning this repository. Please use your own OPENAI_API_KEY.
+<h1>MCQ Creator Application</h1><br>
+<b>This project will generate MCQ using openai and langchain</b><br>
+If you are cloning this repository. Please use your own OPENAI_API_KEY.<br>
 Generate your unique key from:
 https://platform.openai.com/api-keys
 
