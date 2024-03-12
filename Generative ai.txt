@@ -1,0 +1,337 @@
+What is Generative AI?
+Generative AI is a subfield of artificial intelligence (AI) and machine learning 
+(ML) that involves the creation of original data or content, including images, 
+video, text, code and 3D renderings. This subfield has been developing over 
+several decades and is rapidly evolving, due to advances and availability 
+in computational power, large datasets and significant improvements in 
+machine learning algorithms. Generative AI models are based on deep 
+learning algorithms that learn to recognize patterns and relationships from 
+vast amounts of input data, which then generate new outputs that are similar 
+in style and structure to the data they were trained on.
+The ability of these models to self-formulate new and varied outputs 
+represents a paradigm shift in the field of AI because they are not being 
+explicitly programmed to follow pre-determined rules, or generate specific 
+outputs, like other AI systems. This will likely lead to a change in how we 
+interface with computers, and more broadly, in how we access, understand, 
+and produce knowledge and information. 
+
+Core Concepts
+Building Blocks of Generative AI
+» Supervised and semi-supervised 
+learning - A machine learning 
+technique that helps algorithms 
+learn to recognize patterns and make 
+predictions based on categorized 
+or labeled data. In the case of 
+semisupervised learning, algorithms 
+are trained on both labeled and 
+unlabeled data to detect patterns 
+and make predictions.
+
+» Deep learning - A machine learning 
+technique that uses layers of neural 
+networks to process data and make 
+decisions.
+» Neural networks - An AI method 
+that simulates the structure and 
+function of the human brain. Neural 
+networks process information 
+through interconnected nodes that 
+are organized in a layered structure. 
+This computational model serves as 
+the basis of deep learning and is used 
+in various types of generative models.
+
+» Generative Adversarial Network 
+(GAN) - A machine learning 
+model that uses two neural 
+networks—a generator and a 
+discriminator—to produce new 
+data that is similar to a given data 
+set. GANs have become a popular 
+approach for generative AI in 
+various domains, such as image 
+and video generation.
+» Transformer - A type of neural 
+network that uses encoders and 
+decoders to generate the best 
+probability for the following 
+word in a sentence. Transformers 
+enable the development of 
+powerful generative models.
+» Large Language Model (LLM) - 
+A statistical AI model that is 
+trained on massive amounts 
+of text data and predicts the 
+probability of sequences of words 
+to produce human-like text 
+responses.
+
+» Natural Language Processing 
+(NLP) - A subfield of AI that is at 
+the intersection of linguistics, 
+computer science and machine 
+learning. NLP enables computer 
+programs to process and 
+analyze large amounts of natural 
+language data. It uses a range 
+of computational methods and 
+algorithms to allow machines, 
+such as chatbots and voice 
+assistants, to understand and 
+mimic written or spoken human 
+language.
+» Generative Pre-trained 
+Transformer (GPT) - A type of 
+LLM developed by the research 
+lab OpenAI that uses deep 
+learning and NLP techniques. 
+GPT underlies the user-facing, 
+general-purpose chatbot, 
+ChatGPT, which produces humanlike conversational responses in 
+reaction to short user prompts.
+
+Value Proposition
+Proponents of generative AI believe that this set of converging technologies is poised to revolutionize the economy, spur 
+productivity and transform industries—from education, healthcare and finance to infrastructure development. According 
+to new research, it is estimated that generative AI systems could increase annual global Gross Domestic Product (GDP) by 
+7 percent over a 10-year period (Briggs and Kodnani, 2023). Early data suggests that a massive transformation is already 
+underway, as Big Tech companies have begun to quickly roll out and integrate new generative AI tools and features into 
+their products, including search engines and office suite software. The intense competition in Silicon Valley to develop and 
+deploy these tools, however, has prompted concerns among many regulators and ethical AI researchers. Some of these 
+concerns include the risk of perpetuating bias and discrimination, spreading mis- and disinformation, and infringing on 
+intellectual property rights. Discussions regarding generative AI’s value proposition are full of debate and uncertainties. 
+Below, we explore contrasting views on the potential benefits of these technologies, highlighting three interwoven 
+features at the core of its value proposition: efficiency, personalization, and creativity and innovation.
+
+WHAT ADVOCATES SAY WHAT SKEPTICS SAY WHY THE UN SHOULD CARE
+EFFICIENCY
+There are many opportunities for 
+businesses and organizations to 
+maximize their potential using 
+generative AI tools. One such benefit 
+can include increased efficiency by 
+automating tasks that involve complex 
+reasoning, pattern recognition and large 
+data sets. In the long term, this type 
+of automation could reduce business 
+costs and increase productivity. It 
+could also accelerate the speed of 
+iteration, allowing for faster learning and 
+improvements, which can drive business 
+performance. 
+According to economists, foundation 
+models could impact every sector of 
+the economy and lead to significant 
+economic growth. It is predicted that 
+generative AI will likely create disruption 
+across some industries and drive 
+demand for new skills. This includes 
+roles for prompt engineers and data 
+practitioners that can integrate, finetune, and improve generative AI models 
+into existing products and pipelines. 
+It also creates greater demand for AI 
+safety professionals to manage the AI 
+systems’ shortcomings and work to 
+ensure their responsible use.
+While generative AI systems can 
+help an organization run more 
+efficiently, training and operating 
+these models is expensive and can 
+be cost-prohibitive. This is due in 
+part to the specialized hardware 
+and significant amount of memory 
+and storage space these systems 
+require to support the high volume of 
+calculations models typically produce. 
+With continued advances in the field 
+of AI, however, costs associated with 
+generative AI models are expected to 
+decrease over time, which could make 
+them more accessible. Researchers 
+estimate that millions of jobs across 
+large economies could be exposed 
+to some degree of automation. 
+Certain white-collar positions are 
+considered to be at greater risk of 
+being altered or displaced by text 
+generation tools such as ChatGPT. 
+This includes jobs in tech (e.g., coders, 
+computer programmers), media (e.g., 
+advertising professionals, journalists) 
+and finance (e.g., financial analysts 
+and advisors), as well as educators 
+and customer service agents.
+By automating certain functions, generative AI systems 
+can free up time and resources for more high-value tasks, 
+such as policy development and advocacy. 
+One key area where generative AI can be leveraged is in 
+writing and research-related tasks. Generative models 
+can be trained to generate text for various purposes, 
+such as drafting grant proposals, or summarizing large 
+documents. 
+Generative AI can also assist with coding tasks by 
+providing descriptive code documentation. This can help 
+developers to understand complex code bases more 
+quickly and easily, leading to more efficient and effective 
+software development. In addition, generative AI can be 
+integrated into software interfaces, allowing end-users to 
+interact with their software using natural language. This 
+can improve their experience and make software more 
+accessible to non-technical end-users. 
+Generative AI tools can facilitate near-real-time translation 
+and transcription, which could enhance the delivery of 
+critical services to underserved communities. For instance, 
+the UN could use generative AI to provide real-time 
+translation services to refugees or to transcribe speeches 
+at international conferences. 
+Generative AI models, however, lack an inherent 
+understanding of the content they generate, and instead 
+rely on predicting the most probable next words based on 
+the patterns derived from a large corpus of textual data. 
+Hence, they can be considered as personal assistants 
+rather than authoritative decision-makers
+
+WHAT ADVOCATES SAY WHAT SKEPTICS SAY WHY THE UN SHOULD CARE
+PERSONALIZATION
+Generative AI systems could reduce 
+the barriers to entry for non-experts 
+to engage in highly specialized 
+work that was previously limited 
+to people with relevant technical 
+skills and knowledge. For example, 
+by automating data analysis or 
+facilitating access to information 
+through user-friendly interfaces. 
+Organizations will likely see a 
+greater return on investment 
+by using customized generative 
+models that are fine-tuned with 
+their own data. This can lead to 
+more tailored results, which would 
+better address the organization’s 
+specific needs. Personalization can 
+also improve user experience and 
+engagement.
+Since generative AI models are trained on 
+a vast amount of data, it can be difficult to 
+explain how a system arrived at a particular 
+result or response. This lack of explainability 
+poses huge risks and could lead to unintended 
+consequences. For instance, AI systems 
+can reinforce patterns of systemic bias 
+and discrimination if their training data is 
+flawed, biased, or unrepresentative. Without 
+explainable outputs, it could be challenging, 
+or impossible, to pinpoint the source of a 
+problem and develop a mitigation strategy. 
+A lack of transparency could also make it 
+difficult to trust the results of the generative 
+model. This is particularly worrying in cases 
+when automated decision-making may be 
+used to determine outcomes in high-stakes 
+contexts such as healthcare, social services 
+and law enforcement.
+As a multilingual organization with numerous 
+specialized entities, one of the key advantages of 
+generative AI for the UN is its ability to be trained on 
+specialized vocabulary and terminology. Moreover, 
+these models can be integrated into existing 
+interfaces, which can help boost rapid information 
+discovery and automate knowledge management. 
+Perhaps most importantly, generative AI can be 
+applied in the context of the Sustainable Development 
+Goals (SDGs). For example, generative AI can provide 
+marginalized communities with improved access to 
+critical services such as healthcare and education. 
+Generative AI can help detect diseases early and 
+provide personalized health recommendations based 
+on an individual’s medical history, promoting health 
+and well-being (SDG 3). It can also facilitate the 
+provision of quality education (SDG 4) through the 
+creation of personalized learning experiences, making 
+education accessible to those who may not have 
+access to traditional learning opportunities. 
+To promote responsible use of generative AI, the 
+UN could take steps to ensure that personalization 
+features of generative AI do not result in negative 
+consequences—such as perpetuating biases or 
+exacerbating existing inequalities—especially for 
+marginalized populations
+
+CREATIVITY & INNOVATION
+Generative AI tools offer several 
+opportunities to help augment 
+human creativity. For example, 
+by prompting discussion and 
+generating new ideas, which 
+could spark people’s imagination 
+and possibly help them 
+overcome writer’s block. This 
+collaborative ideation tool could 
+assist in spurring the creation 
+of innovative products, services, 
+business strategies and advocacy 
+campaigns. One of the biggest 
+draws of generative AI systems 
+is their potential to change the 
+nature of how cognitive work is 
+performed. 
+Educators are also considering 
+how generative AI could assist 
+in creating engaging activities, 
+including games and simulations, 
+which could help students better 
+understand abstract or other 
+difficult to grasp concepts.
+Some critics have raised concerns that 
+generative AI systems that have been trained 
+on copyrighted works, may infringe on the 
+intellectual property rights of professional 
+artists, writers and programmers. Several 
+lawsuits have been filed against companies 
+that have used copyrighted material in their 
+training data without the permission of (or 
+attribution to) its content creators. 
+Another common concern among critics, is 
+students’ use of highly proficient generative 
+AI tools to complete writing assignments, 
+as these programs can make it harder for 
+professors and other academics to spot 
+instances of plagiarism. 
+Additionally, generative AI systems cannot 
+always be relied on for accurate information 
+as they occasionally “hallucinate” or produce 
+falsehoods. This occurs when a system fails 
+to understand its prompts and confidently 
+produces outputs that do not match the 
+data it has been trained on. Researchers are 
+concerned that generative AI models could 
+make large-scale mis- and disinformation 
+cheaper and easier to produce and 
+disseminate. While there are some steps that 
+can be taken to try to reduce instances of 
+“hallucinations” (e.g., through reinforcement 
+learning with human feedback and input), 
+completely eliminating these falsehoods is a 
+persistent challenge.
+Generative AI can enable marginalized communities 
+to tap into new and innovative resources and 
+networks, which can help create jobs and generate 
+economic opportunities (SDG 8). For instance, 
+generative AI can help democratize access to 
+education and training, which can equip people with 
+the skills they need to succeed in the digital economy. 
+Leveraging generative AI can also help reduce 
+inequalities (SDG 10). For instance, AI technologies can 
+be used to identify and address disparities in access 
+to education and healthcare services. AI-powered 
+platforms can also help marginalized communities 
+connect with potential employers and access training 
+and development resources. 
+The UN should take proactive measures to encourage 
+creativity and innovation within the bounds of ethical 
+and legal principles by implementing policies that 
+promote transparency, accountability and fair use 
+of AI-generated content, especially from creative 
+industries.
