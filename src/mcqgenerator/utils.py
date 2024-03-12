@@ -30,7 +30,7 @@ def get_table_data(quiz_str):
             mcq= value["mcq"]
             options = "\n".join(
                 [
-                    f"{option}-> {option_value}" for option, option_value in value["options"].items()
+                    f"● {option}. {option_value}" for option, option_value in value["options"].items()
                 ]
             )
             correct = value["correct"]
